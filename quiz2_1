@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Quiz_2_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("s = (100000*a+10000*b+1000*c+100*d+10*e+f)，0<=a,b,c,d,e,f<=9");
+            Console.WriteLine("請輸入一個整數n");
+            string s;
+            int n;
+            s=Console.ReadLine();
+            n= int.Parse(s);
+
+            for(int i = 1; i <= n; i++)
+            {
+                bool bo=false;
+                if (i>9999)
+                {
+                    int a=i%100;
+                    int b=(i%10000-a)/100;
+                    int c=(i-100*b-a)/10000;
+                    if(i== a*a*a +b*b*b + c * c * c)
+                    {
+                        bo=true;
+                    }
+                }
+                else if (i>99)
+                {
+                    int a=i%100;
+                    int b=(i-a)/100;
+                    if(i== a * a * a + b * b * b)
+                    {
+                        bo = true;
+                    }
+                }
+                else
+                {
+                    if(i== i * i * i)
+                    {
+                        bo = true;
+                    }
+                }
+                if (bo)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            
+
+
+
+            Console.ReadKey();
+        }
+    }
+}
+
