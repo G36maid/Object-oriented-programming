@@ -1,0 +1,14 @@
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.exe.config
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Quiz參考程式碼\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.csprojResolveAssemblyReference.cache
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.exe.config
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.exe
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\bin\Debug\106_QUiz4.pdb
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.csproj.AssemblyReference.cache
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.csproj.SuggestedBindingRedirects.cache
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.csproj.CoreCompileInputs.cache
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.exe
+C:\Users\teint\Desktop\106_Quiz4\106_Quiz4\106_QUiz4\106_QUiz4\obj\Debug\106_QUiz4.pdb
