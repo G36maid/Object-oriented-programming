@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\QUIZ4\QUIZ4\bin\Debug\QUIZ4.exe.config
+C:\Users\User\Desktop\QUIZ4\QUIZ4\bin\Debug\QUIZ4.exe
+C:\Users\User\Desktop\QUIZ4\QUIZ4\bin\Debug\QUIZ4.pdb
+C:\Users\User\Desktop\QUIZ4\QUIZ4\obj\Debug\QUIZ4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\QUIZ4\QUIZ4\obj\Debug\QUIZ4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QUIZ4\QUIZ4\obj\Debug\QUIZ4.exe
+C:\Users\User\Desktop\QUIZ4\QUIZ4\obj\Debug\QUIZ4.pdb
