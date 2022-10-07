@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\QUIZ3\QUIZ3\obj\Debug\QUIZ3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\QUIZ3\QUIZ3\obj\Debug\QUIZ3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QUIZ3\QUIZ3\bin\Debug\QUIZ3.exe.config
+C:\Users\User\Desktop\QUIZ3\QUIZ3\bin\Debug\QUIZ3.exe
+C:\Users\User\Desktop\QUIZ3\QUIZ3\bin\Debug\QUIZ3.pdb
+C:\Users\User\Desktop\QUIZ3\QUIZ3\obj\Debug\QUIZ3.exe
+C:\Users\User\Desktop\QUIZ3\QUIZ3\obj\Debug\QUIZ3.pdb
