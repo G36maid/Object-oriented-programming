@@ -1,0 +1,6 @@
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\bin\Debug\104_Quiz3.exe.config
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\bin\Debug\104_Quiz3.exe
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\bin\Debug\104_Quiz3.pdb
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\obj\Debug\104_Quiz3.exe
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\obj\Debug\104_Quiz3.pdb
+D:\sdwu\師大\教學\104下\物件導向程式設計\程式碼\104_Quiz3\104_Quiz3\obj\Debug\104_Quiz3.csprojResolveAssemblyReference.cache
